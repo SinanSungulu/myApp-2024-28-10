@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    text-decoration: none;
+}
+@font-face {
+    font-family: top-content;
+    src: url(ASSESTS/FONTS/top-c/Nunito-Black.ttf);
+}
+@font-face {
+    font-family: mid-content;
+    src: url(ASSESTS/FONTS/mid-c/Nunito-Medium.ttf);
+}
+@font-face {
+    font-family: home;
+    src: url(ASSESTS/FONTS/top-c/Nunito-Regular.ttf);
+}
